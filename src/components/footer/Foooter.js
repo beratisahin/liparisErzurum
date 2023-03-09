@@ -11,7 +11,7 @@ import { Link } from "react-router-dom";
 import PhoneIcon from "@material-ui/icons/Phone";
 import LocationOnIcon from "@material-ui/icons/LocationOn";
 
-import MainLogo2 from "../header/lavinyaLogo.png";
+import MainLogo2 from "../header/liparisErzurumLogo.webp";
 
 import React, { Component } from "react";
 
@@ -75,7 +75,7 @@ export default class Foooter extends Component {
             className="col-lg-4 col-md-6 col-sm-6 col-12"
             style={{ fontSize: "12px", marginBottom: "2rem" }}
           >
-            <b style={{ color: "#E59026", fontSize: "18px" }}>
+            <b style={{ color: "#C89159", fontSize: "18px" }}>
               Çalışma Takvimi
             </b>
             <hr />
@@ -120,7 +120,7 @@ export default class Foooter extends Component {
             style={{ fontSize: "15px", marginBottom: "2rem" }}
           >
             <p
-              style={{ color: "#E59026", fontWeight: "bold", fontSize: "18px" }}
+              style={{ color: "#C89159", fontWeight: "bold", fontSize: "18px" }}
             >
               Erzurum LiParis  Güzellik Merkezi
             </p>
@@ -145,7 +145,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="https://wa.me/+905445374882" 
+              href="https://wa.me/+905010410325" 
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -156,7 +156,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="tel: +905445374882"
+              href="tel: +905010410325"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -178,21 +178,21 @@ export default class Foooter extends Component {
             <br />
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
-              <a href="mailto:lavinya.golden.antalya@gmail.com">
+              <a href="mailto:lipariserzurum@gmail.com">
                 <EmailIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; lavinya.golden.antalya@gmail.com
+              &nbsp; lipariserzurum@gmail.com
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a
-                href="tel: +905445374882"
+                href="tel: +905010410325"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SettingsPhoneIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; 0544 537 48 82 <FontAwesomeIcon icon="coffee" size="lg" />
+              &nbsp; 0501 041 03 25 <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
@@ -262,7 +262,7 @@ export default class Foooter extends Component {
 
           <div className="roof-phone">
             <a
-              href="tel: +905445374882" 
+              href="tel: +905010410325" 
               className="phone_float"
               target="_blank"
               rel="noopener noreferrer"
@@ -273,7 +273,7 @@ export default class Foooter extends Component {
 
           <div className="roof-whatsapp">
             <a
-              href="https://wa.me/+905445374882"
+              href="https://wa.me/+905010410325"
               className="whatsapp_float"
               target="_blank"
               rel="noopener noreferrer"

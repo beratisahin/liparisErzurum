@@ -186,7 +186,7 @@ export default function Urunler() {
                     <img
                       class="accPho"
                       alt="Diode Lazer"
-                      title="Antalya Lazer Epilasyon"
+                      title="Erzurum Lazer Epilasyon"
                       src={CiltAnaliz}
                       style={{
                         width: "200px",
@@ -215,7 +215,7 @@ export default function Urunler() {
                     <img
                       class="accPho"
                       lt="Diode Lazer"
-                      title="Antalya Lazer Epilasyon"
+                      title="Erzurum Lazer Epilasyon"
                       src="https://www.capitalmedikal.com/upload/a92ogv6v-1kvqud3-ah4.png"
                       style={{ width: "250px", height: "98px" }}
                     ></img>

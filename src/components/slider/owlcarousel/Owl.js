@@ -74,7 +74,7 @@ export default function Owl() {
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o1} className="owlCarouselImage" alt="Antalya Güzellik Merkezi" loading="lazy" title="Antalya Lazer Epilasyon"></img>
+                    <img src={o1} className="owlCarouselImage" alt="Antalya Güzellik Merkezi" loading="lazy" title="Erzurum Lazer Epilasyon"></img>
                    <p className="owlCarouselContent">Kalıcı Makyaj</p>
                </div> 
             </div>
@@ -83,7 +83,7 @@ export default function Owl() {
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o5} className="owlCarouselImage" alt="Antalya Güzellik Merkezi" loading="lazy" title="Antalya Lazer Epilasyon"></img>
+                    <img src={o5} className="owlCarouselImage" alt="Antalya Güzellik Merkezi" loading="lazy" title="Erzurum Lazer Epilasyon"></img>
                    <p className="owlCarouselContent">Hydrafacial Cilt Bakımı</p>
                </div> 
             </div>

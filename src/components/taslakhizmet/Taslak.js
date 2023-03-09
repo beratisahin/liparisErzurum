@@ -12,8 +12,8 @@ export default class Taslak extends Component {
         <div class="image">
           <img
             src={taslakphoto}
-            title="Antalya Lazer Epilasyon"
-            alt="Antalya Lazer Epilasyon"
+            title="Erzurum Lazer Epilasyon"
+            alt="Erzurum Lazer Epilasyon"
             loading="lazy"
             style={{ width: "100%", height: "30rem" }}
           ></img>
@@ -28,13 +28,13 @@ export default class Taslak extends Component {
             </a>
             <div class="icon-links">
               <a href="#">
-                <i class="fa-solid fa-leaf" style={{ color: "#E59026" }}></i>
+                <i class="fa-solid fa-leaf" style={{ color: "#C89159" }}></i>
               </a>
               <a href="#">
-                <i class="fa-solid fa-crown" style={{ color: "#E59026" }}></i>
+                <i class="fa-solid fa-crown" style={{ color: "#C89159" }}></i>
               </a>
               <a href="#">
-                <i class="fas fa-heart" style={{ color: "#E59026" }}></i>
+                <i class="fas fa-heart" style={{ color: "#C89159" }}></i>
               </a>
             </div>
           </div>

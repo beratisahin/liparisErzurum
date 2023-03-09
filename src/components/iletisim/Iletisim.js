@@ -30,21 +30,21 @@ function Iletisim() {
 
         <p style={{ fontSize: "medium", textAlign: "left" }}>
           {" "}
-          <a href="mailto:lavinya.golden.antalya@gmail.com">
+          <a href="mailto:lipariserzurum@gmail.com">
             <ContactMailIcon style={{ fontSize: "x-large" }} />
           </a>
-          &nbsp; lavinya.golden.antalya@gmail.com
+          &nbsp; lipariserzurum@gmail.com
         </p>
         <p style={{ fontSize: "medium", textAlign: "left" }}>
           {" "}
           <a
-            href="tel: +905445374882"
+            href="tel: +905010410325"
             target="_blank"
             rel="noopener noreferrer"
           >
             <WhatsAppIcon style={{ fontSize: "x-large", color: "#25d366" }} />
           </a>
-          &nbsp; <b>0544 537 48 82</b>{" "}
+          &nbsp; <b>0501 041 03 25</b>{" "}
           <FontAwesomeIcon icon="coffee" size="lg" />
         </p>
         <p style={{ fontSize: "14px", textAlign: "left" }}>
@@ -85,7 +85,7 @@ function Iletisim() {
             referrerpolicy: "no-referrer-when-downgrade",
             ariaHidden: "false",
             tabIndex: "0",
-            border: "2px #E59026 solid",
+            border: "2px #C89159 solid",
             paddingBottom: "0.5rem",
             paddingTop: "0.5rem",
           }}

@@ -7,7 +7,7 @@ import HomeIcon from "@material-ui/icons/Home";
 import ContactlessIcon from "@material-ui/icons/Contactless";
 import CategoryIcon from "@material-ui/icons/Category";
 
-import Logo4 from "./lavinyaLogo.png";
+import LiparisLogo from "./liparisErzurumLogo.webp";
 
 export default class Navbar extends Component {
   componentDidMount() {
@@ -29,7 +29,7 @@ export default class Navbar extends Component {
               <img
                 className="LavinyaLogo"
                 title="Erzurum LiParis  Güzellik Merkezi"
-                src={Logo4}
+                src={LiparisLogo}
               ></img>
             </a>
           </div>
