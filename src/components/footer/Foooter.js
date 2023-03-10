@@ -196,27 +196,27 @@ export default class Foooter extends Component {
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/JKy272hFMBL8aCCJ7"
+                href="https://goo.gl/maps/v3UAZniWXksaRP3Z6"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <HomeIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; Tahılpazarı Mahallesi Adnan Menderes Bulvarı Kent iş Merkezi No:11 Kat:7 Daire:24
-              (MarkAntalya AVM Karşısı, ING Bank Üzerindeyiz)
+              &nbsp; Lalapaşa Mahallesi 1, Dabakhane Sk. No:6 D:İç Kapı No:2, 25100 
+              (Esadaş Otelin Arasındayız)
               
             </p>
 
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/JKy272hFMBL8aCCJ7"
+                href="https://goo.gl/maps/v3UAZniWXksaRP3Z6"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <LocationOnIcon style={{ fontSize: "24px" }} />
               </a>
               &nbsp; 
-              <b>Muratpaşa / ANTALYA</b>{" "}
+              <b>Yakutiye / ERZURUM</b>{" "}
             </p>
           </div>
 
@@ -251,7 +251,7 @@ export default class Foooter extends Component {
 
           <div className="roof-location">
             <a
-              href="https://goo.gl/maps/JKy272hFMBL8aCCJ7"
+              href="https://goo.gl/maps/v3UAZniWXksaRP3Z6" 
               className="location_float"
               target="_blank"
               rel="noopener noreferrer"

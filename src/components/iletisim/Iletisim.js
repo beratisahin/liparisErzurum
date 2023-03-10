@@ -49,33 +49,33 @@ function Iletisim() {
         </p>
         <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/JKy272hFMBL8aCCJ7"
+                href="https://goo.gl/maps/v3UAZniWXksaRP3Z6"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <HomeIcon style={{ fontSize: "24px"}} />
               </a>
-              &nbsp; Tahılpazarı Mahallesi Adnan Menderes Bulvarı Kent iş Merkezi No:11 Kat:7 Daire:24
-              (MarkAntalya AVM Karşısı, ING Bank Üzerindeyiz)
+              &nbsp; Lalapaşa Mahallesi 1, Dabakhane Sk. No:6 D:İç Kapı No:2, 25100 
+              (Esadaş Otelin Arasındayız)
               
             </p>
 
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/JKy272hFMBL8aCCJ7"
+                href="https://goo.gl/maps/v3UAZniWXksaRP3Z6"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <LocationOnIcon style={{ fontSize: "24px" , color:"red" }} />
               </a>
               &nbsp; 
-              <b>Muratpaşa / ANTALYA</b>{" "}
+              <b>Yakutiye / ERZURUM</b>{" "}
             </p>
       </div>
 
       <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1221.3894889326127!2d30.70566908754523!3d36.893985081323606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2958a6926cf88549%3A0xd34d698391e21bd4!2sLavinya%20Golden%20Antalya!5e0!3m2!1str!2str!4v1678278757736!5m2!1str!2str"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d318.76618106330886!2d41.26888789757437!3d39.90588673036355!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xae437a27daf0b65b%3A0xb529d6705c0fa233!2sErzurum%20LiParis%20G%C3%BCzellik%20Salonu!5e0!3m2!1str!2str!4v1678480534579!5m2!1str!2str"
           className="googleharita"
           style={{
             width: "100%",

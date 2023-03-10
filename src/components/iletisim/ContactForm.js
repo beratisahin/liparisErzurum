@@ -86,10 +86,10 @@ class ContactForm extends Component {
       };
 
       emailjs.send(
-        "service_a5tv076",
-        "template_21lf7qa",
+        "service_t13iaui",
+        "template_09mix5o",
         templateParams,
-        "hAE43fIptxwucIIJv"
+        "2qzzK-xf8lkswiKqZ"
       );
 
       console.log(`
