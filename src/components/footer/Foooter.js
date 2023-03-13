@@ -134,7 +134,7 @@ export default class Foooter extends Component {
               <FacebookIcon className="icon" style={{ fontSize: "24px" }} />
             </a>
             <a
-              href="https://www.instagram.com/lavinyagoldenAntalya/"
+              href="https://www.instagram.com/liparis.erzurum/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}

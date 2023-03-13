@@ -9,6 +9,7 @@ import Hakkimizda from "./components/hakkimizda/Hakkimizda";
 
 import Iletisim from "./components/iletisim/Iletisim";
 
+import Hizmetler from "./components/hizmetler/Hizmetler";
 import Medikal from "./components/hizmetler/MedikalCiltBakimi";
 import Tum from "./components/hizmetler/TumVucutLazerEpilasyon";
 import Hydrafacial from "./components/hizmetler/HydrafacialCiltBakimi";
@@ -34,18 +35,14 @@ function App() {
             <Route exact path="/anasayfa" component={Home} />
             <Route path="/hakkimizda" component={Hakkimizda} />
 
+            <Route exact path="/hizmetler" component={Hizmetler} />
             <Route exact path="/medikal-cilt-bakimi" component={Medikal} />
             <Route exact path="/lazer-epilasyon" component={Tum} />
-            <Route
-              exact
-              path="/hydrafacial-cilt-bakimi"
-              component={Hydrafacial}
-            />
+            <Route exact path="/hydrafacial-cilt-bakimi" component={Hydrafacial}/>
             <Route exact path="/g5-kavitasyon" component={G5} />
             <Route exact path="/kirpik-lifting" component={KirpikLifting} />
             <Route exact path="/kalici-makyaj" component={KaliciMakyaj} />
             <Route exact path="/yosun-peeling" component={YosunPeeling} />
-
 
             <Route exact path="/cihazlarimiz" component={Cihazlar} />
 

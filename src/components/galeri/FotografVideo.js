@@ -13,7 +13,7 @@ export default function FotografVideo() {
                     page_title="Fotoğraf ve Video"
                />
                 <br/>
-                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/lavinyagoldenAntalya/" target="_blank">Erzurum LiParis  Güzellik Merkezi</a> instagram profilimizi ziyaret edebilirsiniz. </p>
+                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/lipariserzurum/" target="_blank">Erzurum LiParis  Güzellik Merkezi</a> instagram profilimizi ziyaret edebilirsiniz. </p>
                 <img src={Instagram} style={{width:"95%",height:"auto"}}></img>
             </div>
             

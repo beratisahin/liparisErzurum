@@ -1,10 +1,9 @@
 import Taslak from "../taslakhizmet/Taslak.js";
 import "./TopluHizmet.css";
 import m1 from "./hizmetFotolar/bl1.webp";
-import m2 from "./hizmetFotolar/bl2.webp";
+import m2 from "./hizmetFotolar/lazer.webp";
 import m3 from "./hizmetFotolar/bl3.webp";
 import m4 from "./hizmetFotolar/bl4.webp";
-import m5 from "./hizmetFotolar/bl5.webp";
 import m6 from "./hizmetFotolar/bl6.webp";
 import m7 from "./hizmetFotolar/yosun.webp";
 
@@ -49,7 +48,7 @@ export default class TopluHizmet extends Component {
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
             taslaktitle="Lazer Epilasyon"
-            taslakphoto={m5}
+            taslakphoto={m2}
             taslaktext="Erzurum LiParis  Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/lazer-epilasyon"
           />

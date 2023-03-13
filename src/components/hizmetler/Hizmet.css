@@ -13,6 +13,25 @@
     border:2px solid #F3F3F3;
     border-radius: 1rem !important;
 }
+.rsm{
+    height: 20rem !important;
+}
+.rsm:hover{
+    height: 30rem !important;
+    background-color: orange !important;
+}
+
+.card{
+	-webkit-transform: scale(1) !important;
+	transform: scale(1) !important;
+	-webkit-transition: .3s ease-in-out !important;
+	transition: .3s ease-in-out !important;
+}
+.card:hover{
+	-webkit-transform: scale(1.1) !important;
+	transform: scale(1.1) !important;
+    
+}
 
 /* On screens that are 600px or less, set the background color to olive */
 @media screen and (max-width: 700px) {
