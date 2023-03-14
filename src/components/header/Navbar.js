@@ -60,8 +60,8 @@ export default class Navbar extends Component {
               </a>
               <ul class="submenu">
                 <li>
-                  <a href="/lazer-epilasyon" class="menu-link">
-                    Lazer Epilasyon
+                  <a href="/diode-lazer-epilasyon" class="menu-link">
+                    Diode Lazer Epilasyon
                   </a>
                 </li>
                 <li>
@@ -87,6 +87,11 @@ export default class Navbar extends Component {
                 <li>
                   <a href="/yosun-peeling" class="menu-link">
                     Yosun Peeling
+                  </a>
+                </li>
+                <li>
+                  <a href="/magic-slim" class="menu-link">
+                    Magic Slim
                   </a>
                 </li>
               </ul>

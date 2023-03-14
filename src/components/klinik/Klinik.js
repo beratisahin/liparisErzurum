@@ -65,7 +65,7 @@ export default function Klinik() {
 
                 <KampComp
                     kampanyaResim={k2}
-                    kampanyaAd="https://wa.me/+905010410325?text=erhaba%2C%20T%C3%BCm%20Bacak%20-%20T%C3%BCm%20Kol%20-%20Koltukalt%C4%B1%20-%20%C3%96zel%20B%C3%B6lge%20(1500%E2%82%BA)%20Bayan%20Epilasyon%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905010410325?text=Merhaba%2C%20T%C3%BCm%20Bacak%20-%20T%C3%BCm%20Kol%20-%20Koltukalt%C4%B1%20-%20%C3%96zel%20B%C3%B6lge%20(1500%E2%82%BA)%20Bayan%20Epilasyon%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
                 />
                 <KampComp
                     kampanyaResim={k3}

@@ -17,7 +17,7 @@ import G5 from "./components/hizmetler/G5Masaji";
 import KirpikLifting from "./components/hizmetler/EnseYanakBoyunEpilasyon";
 import KaliciMakyaj from "./components/hizmetler/KaliciMakyaj";
 import YosunPeeling from "./components/hizmetler/YosunPeeling";
-
+import MagicSlim from "./components/hizmetler/MagicSlim";
 import Cihazlar from "./components/hizmetler/Urunler";
 import Blog from "./components/blog/Blog";
 import Fotograf from "./components/galeri/FotografVideo";
@@ -37,14 +37,15 @@ function App() {
 
             <Route exact path="/hizmetler" component={Hizmetler} />
             <Route exact path="/medikal-cilt-bakimi" component={Medikal} />
-            <Route exact path="/lazer-epilasyon" component={Tum} />
+            <Route exact path="/diode-lazer-epilasyon" component={Tum} />
             <Route exact path="/hydrafacial-cilt-bakimi" component={Hydrafacial}/>
             <Route exact path="/g5-kavitasyon" component={G5} />
             <Route exact path="/kirpik-lifting" component={KirpikLifting} />
             <Route exact path="/kalici-makyaj" component={KaliciMakyaj} />
             <Route exact path="/yosun-peeling" component={YosunPeeling} />
+            <Route exact path="/magic-slim" component={MagicSlim} />
 
-            <Route exact path="/cihazlarimiz" component={Cihazlar} />
+            <Route exact path="/cihazlarimiz" component={Cihazlar} />s
 
             <Route exact path="/blog" component={Blog} />
             <Route exact path="/fotograflar" component={Fotograf} />

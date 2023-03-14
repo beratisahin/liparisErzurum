@@ -4,7 +4,7 @@ import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
 
 export default function EnseYanakBoyun() {
-    useDocumentTitle('Antalya Kirpik Lifting');
+    useDocumentTitle('Erzurum Kirpik Lifting');
     return (
         <div className="col-12">s
             <div className="card m-4" style={{align:"center",backgroundColor:"#f8f7fb",borderRadius:"5px"}}>

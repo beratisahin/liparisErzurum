@@ -4,16 +4,13 @@ import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
 import Hydrafacial from "./cihazImage/hydrafacial.webp";
 import Hydrafacial2 from "./cihazImage/hydra2.webp";
-import UmeXCihaz from "./cihazImage/umeXCihaz.webp";
-import Umex from "./cihazImage/umex.webp";
+import Diode from "./cihazImage/liparisCihaz.webp";
 import Baslik from "./cihazImage/baslik.webp";
 import Magic from "./cihazImage/magicSlim.webp";
 import CiltAnaliz from "./cihazImage/ciltAnaliz.webp";
 
-
-
 export default function Urunler() {
-  useDocumentTitle("Antalya Güzellik Merkezi - Lazer Epilasyon");
+  useDocumentTitle("Erzurum Güzellik Merkezi - Lazer Epilasyon");
   return (
     <div className="col-12">
       <div
@@ -37,7 +34,7 @@ export default function Urunler() {
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                  UmeX Micro Lazer Cihazı
+                  Orijinal Diode Lazer
                 </button>
               </h2>
               <div
@@ -51,76 +48,96 @@ export default function Urunler() {
                     <img
                       class="accPho"
                       alt=""
-                      src={Umex}
-                      style={{ width: "30%", height: "500px" }}
-                    ></img>
-                     <img
-                      class="accPho"
-                      alt=""
-                      src={UmeXCihaz}
+                      src={Diode}
                       style={{ width: "30%", height: "500px" }}
                     ></img>
                     <p class="urunbaslik">
                       MİKROSKOP ASİSTANLI LAZER EPİLASYON CİHAZI
                     </p>
                     <p class="urunyazi">
-                      Epilasyona etki eden faktörlerin başında kılın kalınlığı,
-                      derinliği ve rengi gelmektedir. Ayrıca cildin rengi ve
-                      kılın bulunduğu bölgeye göre de uygulanması gereken işlem
-                      değişkenlik göstermektedir. Örneğin yüz bölgesinde bulunan
-                      ince ve açık renkli tüylerde 810 nm Diode dalga boyu
-                      etkili olurken bacak bölgesindeki kalın ve koyu renkli
-                      tüylerde 755 nm Alexandrite dalga boyu etkilidir. UmeX
-                      Hybrid Alexandrite Laser epilasyon cihazı kıl köklerinin
-                      tahrip edilebilmesi, kalıcı olarak yok olması için en
-                      etkili ve güvenli iki dalga boyunu (755 nm Alexandrite -
-                      810 nm Diode ) aynı anda ileten teknolojiye sahiptir. Kıl
-                      yapısı, kıl rengi, ten rengine göre iki tür başlık seçimi
-                      mevcuttur. İster buz başlıkla (ütüleme) jel sürülerek
-                      yapılan uygulamada ister soğuk hava üflemeli başlıkla 35
-                      J/cm2 çıkabilen enerjiyi stabil bir şekilde kıl köküne
-                      iletir.
+                      Orjinal 808-810 nanometre Diode Lazer Kullanıyoruz. IPL
+                      Değil. 808-810 nm Dalga Boyuna Sahip Diode Lazerimiz
+                      Alexandrete ve Buz Lazere Göre Daha Derine İner. Koyu ve
+                      Açık Renklerde Bile Etkili Olup Dört Mevsim Lazer
+                      Uygulaması Yapabilme İmkanı Sağlar. Jelli Kullanım ve -20
+                      Derece Buzlu Başlığı Sayesinde Acısız Ağrısız ve Konforlu
+                      Epilasyon Rahatlığı Sağlar.
                     </p>
                     <br />
                     <p class="urunyazi">
-                      UmeX yüksek soğutma kapasitesi sayesinde diğer soğuk hava
-                      üflemeli cihazlardan iki katı daha fazla soğuk hava
-                      üretir. Üretilen bu soğuk havayı kayba uğramadan, en kısa
-                      yoldan başlığa ulaştıran özel tasarıma sahiptir. Turbo
-                      soğuk hava üfleme özelliği ile cilt -15 dereceye kadar
-                      soğutulur. Atış esnasında hissedilen acı minimum
-                      seviyededir. Tek kullanımlık silikon başlık aparatı
-                      sayesinde size hijyenik bir lazer epilasyon deneyimi
-                      sunar. 2-3 mm boyundaki tüylere doğrudan uygulama
-                      yapılabilir. Yapılan atış kıl kökünü hedef alırken aynı
-                      zamanda cilt yüzeyindeki tüyleri kusursuz kıl patlatma
-                      özelliği ile yok eder ve pürüzsüz bir cilt ile uygulama
-                      biter. Dört mevsim uygulama özelliğine sahip olan UmeX
-                      kombin lazer sistemi sayesinde en inatçı kıl tiplerinde
-                      bile 4 – 6 seansta kesin ve kalıcı sonuçlar alabilirsiniz.
+                      Ütüleme lazer olarak da bilinen diode lazer tüm cilt
+                      tiplerinde kullanıma uygun olduğu için çok fazla tercih
+                      edilen bir lazer uygulamasıdır. İnsan vücudunda çıkan
+                      tüylerin şekli, cinsi, yönü, tüyün ciltteki derinliği ve
+                      kalınlığı farklılık gösterdiği için bazı lazerler lazer
+                      epilasyon tedavisinde yetersiz kalır, ama diode lazerde
+                      tüyün cinsi ne olursa olsun %100 dökülme sağlar. Yüz, sırt
+                      ve kol bölgesinde özellikle tercih edilir, tüylerin rengi
+                      sarı olsa bile lazer her türlü tüyü görebilir ve ışın
+                      atar. Kişinin cilt ve kıl tipine göre 800 nanometre - 950
+                      nanometre dalga boyları ile kullanan kişilere hızlı ve
+                      etkin lazer epilasyon imkânı sağlar. Cihaza bütünleşmiş
+                      bilgisayar sistemi ile belirlenen programa göre işlemi
+                      yönetir ve dalga boylarının doğru atışlar yapmasını
+                      sağlar.
                     </p>
 
+                    
                     <p class="urunyazi">
-                      UmeX Hybrid Alexandrite lazer cihazı ile tek atış kıl
-                      kökünü tahrip etmek için yeterlidir fakat diğer IPL
-                      cihazlarda ise tam etki alabilmek için üst üste birden
-                      fazla atış yapmak gereklidir. UmeX Hybrid Alexandrite
-                      lazer cihazı 10 Hz çalışma hızında bile her atışında
-                      enerjiyi iletir ve kıl kökünü tahrip eder fakat diğer
-                      cihazlarda bu mümkün değildir. Çalışma hızı sayesinde
-                      lazerinizi dakikalar içinde bitirebilir ve zamandan
-                      tasarruf edebilirsiniz. Diğer lazer cihazların da kalıcı
-                      sonuçlar almak oldukça zordur. Bunun nedeni ise yeterli
-                      enerji seviyesinde olmamalarıdır yeterli enerji seviyesine
-                      ulaşsalar dahi ciltte yanıklara neden olurlar. Fakat UmeX
-                      Hybrid Alexandrite lazer cihazı minimum acı ve maksimum
-                      enerjiyle cilde zarar vermeden kıl kökünü etkisiz hale
-                      getirir.
+                      <b>Buz Başlıklı Diode Lazer</b>
+                      <br />
+                      Buz başlıklı diode lazer kullanım kolaylığı ve
+                      derinlemesine kıl kökü yakmada dünyanın en çok tercih
+                      edilen lazer epilasyonudur, aşağıda diode lazer
+                      epilasyonun özelliklerini görebilirsiniz;
+                      <ul>
+                        <li>
+                          Soğutma sistemi diğer eski cihazlara göre çok daha
+                          başarılıdır.
+                        </li>
+                        <li>
+                          Eksi üç dereceye kadar soğutma sağlar ve hatta
+                          epilasyon sırasında buz tutar.
+                        </li>
+                        <li>
+                          Buz başlıklı diode lazer kullanımda acı eşiği
+                          kadınlara oranla daha yüksek olan erkeklerde bile
+                          acısız epilasyon imkânı sağlar.
+                        </li>
+                        <li>
+                          Tüm vücut için toplam süre maksimum elli dakikadır.
+                          Altı -sekiz seans yapılmaktadır.
+                        </li>
+                        <li>
+                          Bölgesel uygulamalarda işlem çok daha kısa sürer.
+                        </li>
+                        <li>
+                          Tüm bunların yanında ince ve açık renkli tüylerin
+                          alınmasında en etkili ve acısız tek yöntemdir.
+                        </li>
+                      </ul>
                     </p>
-
-                   
+                    <p class="urunyazi">
+                      <b>Diode Lazerin Avantajları</b>
+                      <br />
+                      Diode lazer makineleri yurt dışında ve Türkiye’de
+                      neredeyse tüm güzellik merkezlerinde vardır. Diğer lazer
+                      yöntemlerinde daha avantajlı olduğu için çok fazla tercih
+                      ediliyor
+                      <ul>
+                        <li>
+                          Koyu renk ciltlerde bile kullanım kolaylığı sağlar,
+                        </li>
+                        <li>
+                          Pulse süreleri ayarlanabilen cihazlar üretilmiştir,
+                        </li>
+                        <li>
+                          Derin ve kalın kıllarda etkinliği daha fazladır. Erkek
+                          sırtı ve kolunda en başarılı lazerdir.
+                        </li>
+                      </ul>
+                    </p>
                   </div>
-
                   <br />
                   <div>
                     <img
@@ -274,23 +291,23 @@ export default function Urunler() {
                       frekansına bindirilerek farklı cilt tipleri için rezonans
                       sorunları ortadan kaldırılmıştır. Bölge deformasyonuna
                       göre 12 seans kafidir. İlk seans dan sonra netice fark
-                      edilir ve 6. seans da olgunluğa erişir. Magic Born Slim yüksek
-                      frekanslı ses dalgaları kullanılarak geliştirilmiş yağ
-                      yakma cihazıdır. Karın, kalça, basen, bacak, boyun ve kol
-                      bölgelerinde biriken lokalize yağ çeperlerini küçülterek
-                      incelme sağlar. Aynı zamanda sarkık cilt, çatlaklar ve
-                      selülit gibi sorunların giderilmesinde büyük oranda
-                      etkilidir. Hem kadınlarda hem erkeklerde uygulanabilen
-                      Magic Born Slim selülitli bölgeler ve lokal fazlalıkların
-                      giderilmesinde etkili olduğu kadar çene altında oluşan
-                      deformasyon ve sarkmalarda da toparlayıcı etkiye sahiptir.
-                      Magic Born Slim, bölgesel zayıflama söz konusu olduğunda ilk
-                      akla gelen yöntemlerden biridir. Düzenli spor ve yoğun
-                      diyet gibi kilo verme programları bölgesel olarak incelmek
-                      isteyen kişilerde zorlu bir süreç olabilir. Bu aşamada,
-                      bir dış etkene ihtiyaç duyulan durumlarda cerrahi
-                      müdahaleye gerek kalmadan, heykeltraş yöntemi olarak da
-                      anılan Magic Born Slim devreye girer.
+                      edilir ve 6. seans da olgunluğa erişir. Magic Born Slim
+                      yüksek frekanslı ses dalgaları kullanılarak geliştirilmiş
+                      yağ yakma cihazıdır. Karın, kalça, basen, bacak, boyun ve
+                      kol bölgelerinde biriken lokalize yağ çeperlerini
+                      küçülterek incelme sağlar. Aynı zamanda sarkık cilt,
+                      çatlaklar ve selülit gibi sorunların giderilmesinde büyük
+                      oranda etkilidir. Hem kadınlarda hem erkeklerde
+                      uygulanabilen Magic Born Slim selülitli bölgeler ve lokal
+                      fazlalıkların giderilmesinde etkili olduğu kadar çene
+                      altında oluşan deformasyon ve sarkmalarda da toparlayıcı
+                      etkiye sahiptir. Magic Born Slim, bölgesel zayıflama söz
+                      konusu olduğunda ilk akla gelen yöntemlerden biridir.
+                      Düzenli spor ve yoğun diyet gibi kilo verme programları
+                      bölgesel olarak incelmek isteyen kişilerde zorlu bir süreç
+                      olabilir. Bu aşamada, bir dış etkene ihtiyaç duyulan
+                      durumlarda cerrahi müdahaleye gerek kalmadan, heykeltraş
+                      yöntemi olarak da anılan Magic Born Slim devreye girer.
                     </p>
                   </div>
 

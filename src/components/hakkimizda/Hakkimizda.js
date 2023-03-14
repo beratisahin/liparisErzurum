@@ -21,7 +21,7 @@ function Hakkimizda() {
           <br />
           <p class="hizmetyazi">
             Huzurlu atmosferi, güvenliği, teknolojik donanımı, deneyimli güler
-            yüzlü ekibi ile estetik ve güzellik sektöründe Antalya’da merkezi
+            yüzlü ekibi ile estetik ve güzellik sektöründe Erzurum’da merkezi
             konumuyla siz değerli müşterilerimizin hizmetinizdedir. Lazer
             Epilasyon, Dermatolojik ürünlerle Cilt Bakımı, Kalıcı Makyaj,
             Bölgesel Zayıflama, Profesyonel Makyaj, Kaş Tasarımı hizmetlerimiz
@@ -37,7 +37,7 @@ function Hakkimizda() {
           <p class="hizmetyazi">
             Yılların verdiği özgüven ve tecrübe ile daima en iyiyi hedefleyen bu
             doğrultu da yıllardır ekip ve ekipmanı ile sektörün vazgeçilmezi
-            olmak için emin adımlarla, şehrin gözdesi Antalya merkezde ileri seviye hizmet vermektedir. Kadın ve erkeklere özel
+            olmak için emin adımlarla, şehrin gözdesi Erzurum merkezde ileri seviye hizmet vermektedir. Kadın ve erkeklere özel
             ayrı salonlarımızda, memnuniyet ve sonuç odaklı profesyonel
             uygulamalar yapıyoruz.
           </p>
@@ -46,7 +46,7 @@ function Hakkimizda() {
             Erzurum LiParis  Güzellik Merkezi olarak Lazer Epilasyon, G5
             Masajı, Kavitasyon, Kirpik Lifting, Yosun Peeling,
             Hydrafacial Cilt Bakımı hizmetlerimiz mevcuttur. Kampanyalarımız ve
-            detaylar için sosyal medya hesaplarımızı takipte kalın. Antalya
+            detaylar için sosyal medya hesaplarımızı takipte kalın. Erzurum
             Lavinya Golden Güzellik Salonu olarak şehrin merkezinde bulunan
             salonumuzda siz değerli müşterilerimize hizmet vermekteyiz. Bayanlar
             ve baylar için epilasyon ve cilt bakım hizmetlerimiz bulunmaktadır.
