@@ -53,7 +53,7 @@ export default class Navbar extends Component {
               </a>
             </li>
             <li class="has-dropdown">
-              <a href="" class="menu-link" style={{ fontSize: "medium" }}>
+              <a class="menu-link" style={{ fontSize: "medium" }}>
                 <i class="fa-regular fa-snowflake"></i>&nbsp;Hizmetlerimiz
                 &nbsp;
                 <span class="arrow"></span>
