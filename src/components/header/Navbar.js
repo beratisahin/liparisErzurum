@@ -53,7 +53,7 @@ export default class Navbar extends Component {
               </a>
             </li>
             <li class="has-dropdown">
-              <a href="/hizmetler" class="menu-link" style={{ fontSize: "medium" }}>
+              <a href="" class="menu-link" style={{ fontSize: "medium" }}>
                 <i class="fa-regular fa-snowflake"></i>&nbsp;Hizmetlerimiz
                 &nbsp;
                 <span class="arrow"></span>
@@ -92,6 +92,11 @@ export default class Navbar extends Component {
                 <li>
                   <a href="/magic-slim" class="menu-link">
                     Magic Slim
+                  </a>
+                </li>
+                <li>
+                  <a href="/hizmetler" class="menu-link">
+                    Tüm Hizmetler
                   </a>
                 </li>
               </ul>
